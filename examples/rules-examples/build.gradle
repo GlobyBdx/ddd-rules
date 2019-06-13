@@ -1,0 +1,8 @@
+dependencies {
+	testCompile (
+		'com.google.guava:guava:r05',
+		'com.google.code.gson:gson:2.8.2',
+		'com.googlecode.json-simple:json-simple:1.1.1',
+		'com.tngtech.archunit:archunit-junit4:0.10.2'
+	)
+}

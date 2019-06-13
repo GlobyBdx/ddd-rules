@@ -1,0 +1,5 @@
+dependencies {
+	testCompile (
+		'com.tngtech.archunit:archunit-junit4:0.10.2'
+	)
+}

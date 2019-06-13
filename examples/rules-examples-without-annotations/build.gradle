@@ -1,0 +1,7 @@
+dependencies {
+	testCompile (
+		'com.googlecode.json-simple:json-simple:1.1.1',
+		'com.tngtech.archunit:archunit-junit4:0.10.2',
+		'fr.inria.gforge.spoon:spoon-core:7.3.0'
+	)
+}
